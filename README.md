@@ -21,7 +21,7 @@ If you find our code or paper useful, please cite
 - [ ] Providing pretrained models
 - [ ] Easy-to-use colab
 - [ ] StyleGAN3 support
-
+test test 
 ## Requirements ##
 - 64-bit Python 3.8 and PyTorch 1.9.0 (or later). See https://pytorch.org for PyTorch install instructions.
 - Use the following commands with Miniconda3 to create and activate your PG Python environment:
