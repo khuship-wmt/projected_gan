@@ -6,7 +6,7 @@ This repository contains the code for our NeurIPS 2021 paper "Projected GANs Con
 
 by [Axel Sauer](https://axelsauer.com/), [Kashyap Chitta](https://kashyap7x.github.io/), [Jens Müller](https://hci.iwr.uni-heidelberg.de/users/jmueller), and [Andreas Geiger](http://www.cvlibs.net/).
 
-If you find our code or paper useful, please cite
+If you find our code or paper useful, please cite plrsse 
 ```bibtex
 @InProceedings{Sauer2021NEURIPS,
   author         = {Axel Sauer and Kashyap Chitta and Jens M{\"{u}}ller and Andreas Geiger},
