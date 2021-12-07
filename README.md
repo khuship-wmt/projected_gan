@@ -55,7 +55,7 @@ If you want to use the StyleGAN2 generator, use ```--cfg=stylegan2```. Samples a
 
 ## Generating Samples & Interpolations ##
 
-To generate samples and interpolation videos, run
+To generate samples and interpolation videos, run   test test 
 ```
 python gen_images.py --outdir=out --trunc=1.0 --seeds=10-15 \
   --network=PATH_TO_NETWORK_PKL
